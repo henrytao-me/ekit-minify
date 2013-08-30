@@ -1,6 +1,6 @@
 {
-  "name": "minify",
-  "description": "Minifier of js, css, html and img",
+  "name": "ekit-minify",
+  "description": "Minifier of js, css, html and img (extended from orginial minify package. Checkout at: https://npmjs.org/package/minify)",
   "keywords": [
     "minify",
     "minimize",
@@ -8,7 +8,8 @@
     "css",
     "img",
     "html",
-    "base64"
+    "base64",
+    "ekit"
   ],
   "version": "0.2.1",
   "author": {
